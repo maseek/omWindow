@@ -1,0 +1,7 @@
+[package]
+name = "om_window"
+version = "0.1.0"
+authors = ["Tomas Zemanovic <tzemanovic@gmail.com>"]
+
+[dependencies]
+x11 = "*"

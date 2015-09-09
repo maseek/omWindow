@@ -1,0 +1,5 @@
+mod window {
+    trait window {
+
+    }
+}
